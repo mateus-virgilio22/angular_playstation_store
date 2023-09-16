@@ -1,0 +1,14 @@
+.footer__container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+.footer__content > p {
+    font-family: 'Segoe UI';
+    font-family: 1rem;
+}
